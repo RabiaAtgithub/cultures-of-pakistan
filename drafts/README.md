@@ -1,9 +1,9 @@
-# Cultures of Pakistan
+# Car dashboard cam
 
-A book exploring the diverse cultures, traditions, festivals, dresses, and customs of Pakistan's provinces and cities.
+A manual guiding on variety of functions provided by the dash cam. In variety of car models. Shipped and manufactured by inland and foreign manufacturers for global distribution.
 
 Built using **Spec-Kit Plus** methodology on GitHub:
-- spec/ : Book specification and outline
+- spec/ : manual specification and outline
 - drafts/ : Chapter drafts
 - final/ : Polished versions (coming soon)
 
